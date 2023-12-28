@@ -1,0 +1,29 @@
+img {
+    border-radius:15px;
+}
+header {
+    font-family: 'Dancing Script', cursive;
+    color:#bc4749;
+    background-color:#f2e8cf;
+}
+main h2 {
+    font-family:'Advent Pro', thin;
+    background-color: #f2e8cf;
+}
+main {
+    color:#386641;
+}
+main p {
+    border:5px dotted #a7c957;
+    padding:5px;
+    border-radius: 20px;
+    font-family: 'Advent Pro', thin;
+    color:#386641;
+    font-size:30px;
+    background-color: #f2e8cf;
+}
+footer p {
+    font-size:9px;
+    background-color:#000000;
+    color:#000038;
+}
